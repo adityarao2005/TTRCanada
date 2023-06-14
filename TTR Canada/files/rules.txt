@@ -1,0 +1,35 @@
+1. Game Setup:
+-Determine the starting player. The first player goes first. 
+-Set the game end condition. The game ends when one player has 0 1 or 2 trains remaining. Each player gets one final turn.
+,Turn Structure:	    
+2. On your turn you can choose one of the following three moves:
+-Pass the turn to the next player.
+-Draw a train card.
+-Claim a route.
+,Drawing Train Cards:
+3.0. You can draw train cards by either:
+-Taking one or two face-up cards.
+-Drawing the top card from the deck.
+                    
+3.1. If you draw from the face-up cards replace the taken card(s) with a new card from the deck.
+3.2. If you draw a wild card from the face-up cards your turn ends.
+3.3. If a wild card appears in the face-up cards after you draw a non-wild card you cannot select the wild card.
+3.4. If you draw a wild card from the deck you may select a card from either the deck or the face-up cards (excluding wild cards).
+,Claiming Routes:
+4.1. To claim a route play a set of train car cards that match the color of the route.
+
+4.2. Place one of your colored train tokens on each space of the route filling it completely.
+
+4.3. Record your score by moving the scoring marker accordingly.
+,Drawing Destination Tickets:
+5.1. You can draw destination tickets by drawing three cards from the top of the deck.
+
+5.2. You must keep at least two of the drawn cards but you can keep all three if desired.
+
+5.3. Return any unwanted cards to the bottom of the deck.
+,Game Progression:
+6.1. Players take turns following the turn structure until the game end condition is met.
+
+6.2. After the game ends final scoring takes place including points for completed destination tickets and claimed routes.
+
+6.3. The player with the highest score wins the game.
